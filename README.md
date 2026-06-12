@@ -51,7 +51,7 @@
 
 <br/>
 
-🎓 &nbsp;**B.Tech CSE** @ Amrita Vishwa Vidyapeetham, Bangalore &nbsp;|&nbsp; **CGPA: 8.3 / 10**
+🎓 &nbsp;**B.Tech CSE** @ Amrita Vishwa Vidyapeetham, Bangalore &nbsp;|&nbsp; **CGPA: 8.5 / 10**
 
 🇳🇵 &nbsp;From **Birgunj, Nepal** &nbsp;·&nbsp; Based in **Bangalore, India**
 
