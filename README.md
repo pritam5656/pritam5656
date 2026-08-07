@@ -51,7 +51,7 @@
 
 <br/>
 
-🎓 &nbsp;**B.Tech CSE** @ Amrita Vishwa Vidyapeetham, Bangalore &nbsp;|&nbsp; **CGPA: 8.5 / 10**
+🎓 &nbsp;**B.Tech CSE** @ Amrita Vishwa Vidyapeetham, Bangalore &nbsp;|&nbsp; **CGPA: 8.36 / 10**
 
 🇳🇵 &nbsp;From **Birgunj, Nepal** &nbsp;·&nbsp; Based in **Bangalore, India**
 
@@ -366,7 +366,7 @@
 
 | &nbsp; | Achievement |
 |:---:|:---|
-| 🎓 | **CGPA 8.5/ 10** — B.Tech CSE, Amrita Vishwa Vidyapeetham, Bangalore |
+| 🎓 | **CGPA 8.36/ 10** — B.Tech CSE, Amrita Vishwa Vidyapeetham, Bangalore |
 | 📄 | **3 Published Conference Papers** — Algorithms · AI/NLP · Number Theory |
 | 📝 | **3 Journal Papers Under Review** — Medical AI · FinTech Multimodal AI |
 | 🖥️ | **ICPC 2025 Student Administrator** — Led all volunteers at regional-level contest |
